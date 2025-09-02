@@ -1,0 +1,29 @@
+newmtl Material. 4
+Ka 0.965 1.000 0.875
+Kd 0.965 1.000 0.875
+d 1.000
+
+newmtl Material. 2
+Ka 0.000 0.000 0.000
+Kd 0.000 0.000 0.000
+d 1.000
+
+newmtl Material. 6
+Ka 0.800 0.000 0.004
+Kd 0.800 0.000 0.004
+d 1.000
+
+newmtl Material. 5
+Ka 0.000 0.000 0.000
+Kd 0.000 0.000 0.000
+d 1.000
+
+newmtl Material. 7
+Ka 0.114 0.114 0.114
+Kd 0.114 0.114 0.114
+d 1.000
+
+newmtl Material. 8
+Ka 0.114 0.114 0.114
+Kd 0.114 0.114 0.114
+d 1.000
